@@ -27,7 +27,13 @@ That's why the first step is :
 
 ![image](https://github.com/tahajadid/ScrapeDataWebVBA/blob/main/img/securite2.jpg) &nbsp;
 
-And now go into VBA editor to see the code (Module), And put your target web site 
+And now go into VBA editor to see the code (Module), And put your target web site as *IE.navigate* content : &nbsp;
+
+![image](https://github.com/tahajadid/ScrapeDataWebVBA/blob/main/img/target%20web%20page.jpg)
+
+* Youn need to know the number of rows of your table and put the number as content of *RowNum* content.(in my case i have only 5 rows) &nbsp;
+
+And Finally you can click on *Plot* button that execute the Code (Module) to return the following result (I puted a random information):&nbsp;
 
 ![image](https://github.com/tahajadid/ScrapeDataWebVBA/blob/main/img/Resultats.jpg)
 
