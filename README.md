@@ -18,10 +18,11 @@ To add those references you need to :
 ## Code Part
 
 To use my VBA Code when you download it, you need first to let all the Macros works on your Machine
-That's why the first step is going to Macros security : &nbsp;
+That's why the first step is going to Macros security : &nbsp;&nbsp;
+
 ![image](https://github.com/tahajadid/ScrapeDataWebVBA/blob/main/img/securite1.jpg)
 
-Go to Macros settings, And Select the Last one (Active all the Macros..), Then select the Last checkBox as shown : &nbsp;
+Go to Macros settings, And Select the Last one (Active all the Macros..), Then select the Last checkBox as shown :&nbsp;
 
 ![image](https://github.com/tahajadid/ScrapeDataWebVBA/blob/main/img/securite2.jpg)
 
