@@ -9,10 +9,11 @@ First of all if you need to browse on web page with Macros you need to add some 
 
 . [Internet Explorer Object](https://riptutorial.com/vba/example/27772/internet-explorer-object)
 
-to add those references you need to :
+To add those references you need to :
 1. Go to  Visual Basic Editor
 2. Select  tools
 3. Select references
 4. Serach for the two references and select them, then click  OK
 
-## 
+## Code Part
+
