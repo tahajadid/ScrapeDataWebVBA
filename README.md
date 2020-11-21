@@ -17,3 +17,9 @@ To add those references you need to :
 
 ## Code Part
 
+![image](https://github.com/tahajadid/ScrapeDataWebVBA/blob/main/img/securite1.jpg)
+
+![image](https://github.com/tahajadid/ScrapeDataWebVBA/blob/main/img/securite2.jpg)
+
+![image](https://github.com/tahajadid/ScrapeDataWebVBA/blob/main/img/Resultats.jpg)
+
