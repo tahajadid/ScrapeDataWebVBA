@@ -19,7 +19,7 @@ To add those references you need to :
 
 To use my VBA Code when you download it, you need first to let all the Macros works on your Machine
 That's why the first step is going to Macros security : &nbsp;&nbsp;
-<h1>1</h1>
+<h2>1</h2>
 ![image](https://github.com/tahajadid/ScrapeDataWebVBA/blob/main/img/securite1.jpg)
 
 Go to Macros settings, And Select the Last one (Active all the Macros..), Then select the Last checkBox as shown :&nbsp;
